@@ -1,0 +1,2 @@
+1,1,1,1,2025-06-18T00:36:21.124014500,headache,3 broken bones,get more sleep
+2,2,2,1,2025-06-18T00:44:16.064855,Hurt in teeth,Broken throat,drink some water
