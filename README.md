@@ -471,7 +471,8 @@ This case highlights the system's scalability through efficient data structures:
         <i></i>
       </td>
       <td>
-        • Implementing Doctor.java
+        • Implementing Doctor.java<br>
+        • Recording
       </td>
     </tr>
     <tr>
@@ -482,7 +483,8 @@ This case highlights the system's scalability through efficient data structures:
       <td>
         • Creating Queue.java<br>
         • Creating BST.java<br>
-        • Implementing Appointment.java
+        • Implementing Appointment.java<br>
+        • Recording
       </td>
     </tr>
     <tr>
@@ -493,6 +495,7 @@ This case highlights the system's scalability through efficient data structures:
       <td>
         • Creating LinkedList.java<br>
         • Taking images<br>
+        • Recording<br>
         • Editing video<br>
         • Implementing Patient.java
       </td>
@@ -508,6 +511,7 @@ This case highlights the system's scalability through efficient data structures:
         • Add diagnosis feature<br>
         • Connecting all files in<br>
         • Creating README.md<br>
+        • Recording<br>
         • Finishing
       </td>
     </tr>
