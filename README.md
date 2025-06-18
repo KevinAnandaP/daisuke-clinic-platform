@@ -309,22 +309,22 @@ Key features:
 
 ### Step-by-Step Instructions
 
-1. Ensure you have Java installed on your system (JDK 8 or higher recommended)
+1. Ensure you have Java installed on your system
    ```bash
    java -version
    ```
 
-2. Clone or download the repository to your local machine
+2. Clone the repository to your local machine
    ```bash
    git clone https://github.com/KevinAnandaP/daisuke-clinic-platform.git
    ```
 
-3. Navigate to the project directory in your terminal or command prompt
+3. Navigate to the project directory in your terminal
    ```bash
    cd daisuke-clinic
    ```
 
-4. Compile the Java files (if not already compiled):
+4. Compile the Java files:
    ```bash
    javac -d bin src\*.java src\model\*.java src\datastructure\*.java src\service\*.java src\util\*.java
    ```
@@ -432,31 +432,6 @@ This case demonstrates how the integrated data structures (Linked List for patie
 5. Patient lookup by ID (using BST) ensures quick access to patient records even with the increased volume.
 
 This case highlights the system's scalability through efficient data structures: O(1) insertion with Linked Lists, O(log n) lookup with BST, and prioritized processing with Queue.
-
-### 📱 Case Study 3: Patient Record Update and Appointment Rescheduling
-**Scenario**: A patient needs to update their contact information and reschedule a previously booked appointment.
-
-**Solution**:
-1. The patient logs in and uses the "Update Profile" features to modify their phone number and address.
-2. The system efficiently locates the patient's record in both the Linked List and BST structures.
-3. The patient views their current appointment using "View My Appointments".
-4. Using the appointment scheduling system backed by the Queue implementation, the patient reschedules their appointment.
-5. Both the patient and assigned doctor receive updated appointment information.
-
-This case study demonstrates the flexibility of the system and how the different data structures maintain consistency across multiple operations.
-
-### 🚑 Case Study 4: Comprehensive Medical Records Management
-**Scenario**: A patient with a chronic condition visits multiple doctors at the clinic over time, requiring consistent medical record keeping.
-
-**Solution**:
-1. Each time the patient visits, their appointment is recorded in the Queue system.
-2. When doctors process appointments, they enter detailed diagnosis and medication information.
-3. These records are stored in the dedicated Diagnosis.txt file through the DiagnosisService.
-4. The patient can access their complete medical history through the "View Medical History" feature.
-5. Any doctor seeing the patient can review previous diagnoses and treatments, ensuring continuity of care.
-6. Administrators can monitor patterns in diagnoses and treatments across all patients or specific doctors.
-
-This case study demonstrates how the medical records system enhances patient care through comprehensive record-keeping and accessibility, while maintaining data integrity using proper file I/O operations.
 
 ## 👥 Team Members and Responsibilities
 
