@@ -316,7 +316,7 @@ Key features:
 
 2. Clone or download the repository to your local machine
    ```bash
-   git clone (link github)
+   git clone https://github.com/KevinAnandaP/daisuke-clinic-platform.git
    ```
 
 3. Navigate to the project directory in your terminal or command prompt
@@ -502,8 +502,8 @@ This case study demonstrates how the medical records system enhances patient car
         <i></i>
       </td>
       <td>
-        • Implementing Main.java and folder structure
-        • Add diagnosis feature
+        • Implementing Main.java and folder structure<br>
+        • Add diagnosis feature<br>
         • Finishing
       </td>
     </tr>
