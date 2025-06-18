@@ -492,6 +492,8 @@ This case highlights the system's scalability through efficient data structures:
       </td>
       <td>
         • Creating LinkedList.java<br>
+        • Taking images<br>
+        • Editing video<br>
         • Implementing Patient.java
       </td>
     </tr>
@@ -501,8 +503,11 @@ This case highlights the system's scalability through efficient data structures:
         <i></i>
       </td>
       <td>
-        • Implementing Main.java and folder structure<br>
+        • Implementing Main.java and creating folder structure<br>
+        • Implementing model, service, util, ds, img and data<br>
         • Add diagnosis feature<br>
+        • Connecting all files in<br>
+        • Creating README.md<br>
         • Finishing
       </td>
     </tr>
