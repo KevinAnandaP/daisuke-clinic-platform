@@ -35,6 +35,22 @@ Daisuke Clinic Management System is a Java-based application designed to efficie
 <div align="center">
   <img src="img/Admin_DoctorManagement.png" alt="Doctor Management" width="600px"/>
 </div>
+
+<details>
+<summary><i>Add Doctor</i></summary>
+<p>Admins can register new doctors to the system.</p>
+<div align="center">
+  <img src="img/Admin_AddDoctor.png" alt="Add Doctor" width="600px"/>
+</div>
+</details>
+
+<details>
+<summary><i>Display All Doctors</i></summary>
+<p>Admins can view all registered doctors in the system.</p>
+<div align="center">
+  <img src="img/DisplayDoctor.png" alt="Display All Doctors" width="600px"/>
+</div>
+</details>
 </details>
 
 <details>
@@ -263,6 +279,14 @@ Daisuke Clinic Management System is a Java-based application designed to efficie
   <img src="img/Admin_ViewDoctorMedicalRecords.png" alt="Doctor Medical Records" width="600px"/>
 </div>
 </details>
+</details>
+
+<details>
+<summary><b>View Logged In Doctors</b></summary>
+<p>Administrators can view all doctors currently logged into the system.</p>
+<div align="center">
+  <img src="img/Admin_ViewLogIN.png" alt="View Logged In Doctors" width="600px"/>
+</div>
 </details>
 
 ### 📝 Diagnosis Records
